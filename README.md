@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://raw.githubusercontent.com/jottiana/jottiana/main/IMG_2377.jpeg" alt="banner that says Agnes Mathieu - web development student"> 
+<img src="https://raw.githubusercontent.com/jottiana/jottiana/main/IMG_2384.jpeg" alt="banner that says Agnes Mathieu - web development student"> 
 
 
 I’m currently transitioning to a new career and studying web development at Wild Code School. I’m passionate about coding and constantly expanding my skills. I’m looking for a 4-month internship from February to June 2025 to gain hands-on experience and contribute to exciting projects. Let’s connect and collaborate!
