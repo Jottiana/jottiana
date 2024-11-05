@@ -16,7 +16,7 @@ I’m currently transitioning to a new career and studying web development at Wi
   
 - 💬 Ask me about my journey in web development, the technologies I’m learning, or my projects aimed at making tech more inclusive.
   
-- 📫 How to reach me: you can connect with me on [Linkedin](https://www.linkedin.com/in/agnes-mathieu-europe)
+- 📫 How to reach me: you can connect with me on [Linkedin](https://www.linkedin.com/in/agnes-mathieu-bouchez)
 
 - 😄 Pronouns: She/Her, They/Them
   
