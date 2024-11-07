@@ -21,6 +21,7 @@ I’m currently transitioning to a new career and studying web development at Wi
 - 😄 Pronouns: She/Her, They/Them
   
 - ⚡ Fun fact: I’m passionate about creating resources that encourage girls to explore the tech world. My dream project is to build a website that highlights women in tech and shows young girls that they have a place in this field.
+   [And...I've started making my dream come true](https://github.com/Jottiana/girl_power_code).
 
 - 🚀 Technologies I'm currently learning:
 
