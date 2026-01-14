@@ -1,23 +1,5 @@
 ## Hi there 👋
 
-<img src="https://raw.githubusercontent.com/jottiana/jottiana/main/IMG_2384.jpeg" alt="banner that says Agnes Mathieu - web development student"> 
-
-
-I’m currently transitioning to a new career and studying web development. I’m passionate about coding and constantly expanding my skills. I’m in a 4-month internship at [Davi](https://davi.ai/) to gain hands-on experience. Let’s connect and collaborate!
-
-  
-- 🌱 I’m currently learning more about advanced JavaScript, React with TypeScript, Tailwind and API integration. I’m also exploring UX/UI design through Figma and deepening my understanding of Git and Scrum practices.
-  
-- 👯 I’m looking to collaborate on projects that promote diversity in tech, especially initiatives aimed at encouraging young girls to explore coding and web development.
-  
-- 💬 Ask me about my journey in web development, the technologies I’m learning, or my projects aimed at making tech more inclusive.
-  
-- 📫 How to reach me: you can connect with me on [Linkedin](https://www.linkedin.com/in/agnes-mathieu-bouchez)
-  
-- ⚡ Fun fact: I’m passionate about creating resources that encourage girls to explore the tech world. My dream project is to build a website that highlights women in tech and shows young girls that they have a place in this field.
-   [And...I've started making my dream come true](https://github.com/Jottiana/girl-power-code).
-
-- 🚀 Technologies I'm currently learning:
 
 ![Static Badge](https://img.shields.io/badge/HTML5-_-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&label=HTML5&labelColor=%23555555&color=%23E34F26) 
 ![Static Badge](https://img.shields.io/badge/CSS3-_-%231572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&label=CSS3&labelColor=%23555555&color=%231572B6)
